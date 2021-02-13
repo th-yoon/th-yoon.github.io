@@ -14,4 +14,4 @@ advised by [Prof. Lim, Sungbin](https://sites.google.com/view/sungbin/)
 + Optimization
 
 
-### CV
+### [CV](https://github.com/th-yoon/th-yoon.github.io/tree/gh-pages/files/CV_Yoon_20210213.pdf)
